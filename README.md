@@ -5,6 +5,10 @@ Uma ferramenta de gerenciamento de tarefas no Terminal.
 ### Demonstração do programa
 
 
+https://github.com/joaquimchianca/rustodo/assets/56089360/29baea01-5bef-440f-aad9-63e7eed95e9b
+
+
+
 ### Explicação do código
 
 
