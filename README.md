@@ -11,7 +11,7 @@ https://github.com/joaquimchianca/rustodo/assets/56089360/29baea01-5bef-440f-aad
 
 ### Explicação do código
 
-
+[video no Drive](https://drive.google.com/file/d/1g5sket_IEcbSCRY_WTD2YfhG50gDu_P2/view?usp=sharing)
 
 ## Descrição
 Esse programa foi criado como projeto final da disciplina de Programação em Rust, ministrada pelo professor Wedson
