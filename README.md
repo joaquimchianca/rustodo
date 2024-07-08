@@ -1,8 +1,13 @@
 # Rustodo
 Uma ferramenta de gerenciamento de tarefas no Terminal.
 
-## Vídeo de demonstração
-Abaixo, um vídeo de demonstração do aplicativo.
+## Vídeos
+### Demonstração do programa
+
+
+### Explicação do código
+
+
 
 ## Descrição
 Esse programa foi criado como projeto final da disciplina de Programação em Rust, ministrada pelo professor Wedson
